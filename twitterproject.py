@@ -1,7 +1,3 @@
-"""
-Aileen Murphy and Geetanjali Kanojia 
-CMPT 363 Final Project: Twitter Data Mining Analysis
-"""
 import sys,tweepy,csv,re
 from textblob import TextBlob
 import matplotlib.pyplot as plt
