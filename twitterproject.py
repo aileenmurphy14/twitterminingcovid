@@ -29,10 +29,10 @@ class SentimentAnalysis:
         snegative = 0
         neutral = 0
 
-        consumer_key = "i2wYXmYRLW2eA6Ad6py2Zr4lf"
-        consumer_secret = "EAlDSeMzIt8aPReRoMBdrC65yOfyftc8TAreXUNAPcYssuoMjb"
-        access_token = "1224671032033906689-5B6hkt3HdB4AIllJLuMcN8S04lAese"
-        access_token_secret = "BtHivZKQ6QJ0w03EVpWm1PKyrz1IdOJtfAjs5o2XQdbmP"
+        consumer_key = ""
+        consumer_secret = ""
+        access_token = ""
+        access_token_secret = ""
 
         auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
         auth.set_access_token(access_token, access_token_secret)
