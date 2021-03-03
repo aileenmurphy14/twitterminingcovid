@@ -215,7 +215,6 @@ if __name__== "__main__":
 #SOURCES:
 #https://stackoverflow.com/questions/42418085/python-wordcloud-from-a-txt-file
 #https://chadrick-kwag.net/matplotlib-table-example/
-#https://stackoverflow.com/questions/3594514/how-to-find-most-common-elements-of-a-list/44481414
 # https://www.toptal.com/python/twitter-data-mining-using-python
 # https://developer.twitter.com/en/docs/tutorials/filtering-tweets-by-location
 #https://www.youtube.com/watch?v=eFdPGpny_hY
